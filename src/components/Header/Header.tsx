@@ -52,7 +52,7 @@ export function Header() {
         target="_blank"
         rel="noreferrer"
       >
-        by isabdch
+        by vidushi
       </a>
     </HeaderComponent>
   );
